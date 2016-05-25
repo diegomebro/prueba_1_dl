@@ -1,0 +1,190 @@
+body, html {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif
+}
+
+header {
+	background:url(../img/background.jpg) no-repeat center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	height: 500px;
+	width: 100%;
+	position: absolute;
+}
+.header {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+
+.banner-inicio{
+	background-color: rgba(0,0,0,0.55);
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+
+.header h1, .header h3{
+	color: #FFF;
+	text-align: center;
+	text-shadow: 5px 5px 5px #000;
+	position: static;
+
+}
+
+.header h1{
+	font-size: 36px;
+	font-weight: 900;
+}
+
+.navbar-default{
+	background: #000;
+}
+.header img {
+	width: 300px;
+	margin: 100px auto 60px auto;
+	display: block;
+}
+.btn-reserve {
+	width: 206px;
+	margin: 60px auto 50px auto;
+	display: block;
+}
+
+.reserve {
+	padding: 6px 12px;
+    font-size: 22px;
+    font-weight: 900;
+}
+
+.why-txt h1, .why-txt p{
+	color: #555;
+	text-align: center;
+	width: 100%;
+	height: 100%;
+}
+
+.why-txt p{
+	font-size: 22px;
+}
+
+.list-inline {
+    list-style: none;
+}
+
+span {
+	font-size: 11px;
+}
+.social-buttons li{
+	width: 30px;
+	float: left;
+	margin: 0 10px;
+}
+
+ul.social-buttons {
+	margin: 0 auto;
+	display: block;
+	width: 150px;
+}
+h1.whytxt, h3.whytxt{
+	color: #FFF;
+	text-align: center;
+	margin: 0;
+}
+h1.whytxt{
+	margin: 0 0 30px 0;
+}
+
+.color-black{
+	background-color: #000;
+	padding:30px 30px;
+}
+
+.color-white {
+	background-color: #FFF;
+	padding:30px 30px;
+}
+
+.color-gray {
+	background-color: #CCC;
+	padding:30px 30px;
+}
+
+.color-gray h4{
+	color: #000;
+	text-align: center;
+	margin: 0
+}
+.btn-primary {
+    color: #fff;
+    background-color: #FF0000;
+    border-color: #EC0000;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #EC0000;
+    border-color: #FF0000;
+}
+
+.reserve {
+	padding: 6px 12px;
+    font-size:16px;
+    font-weight: 900;
+}
+
+.txt h3, .txt h4, .txt h2{
+	margin: 0 0 20px 0;
+	text-align: center;
+}
+
+.inscripcion h3{
+	margin: 0;
+}
+
+.mapa {
+	width: 100%;
+	height: 440px;
+	position: relative;
+	margin: 10px 0 0 0;
+}
+.anti-zoom{
+	z-index: 100;
+	width:100%;
+	height: 100%;
+	position: absolute
+
+}
+.map{
+	width: 100%;
+	height: 100%
+}
+
+.partner {
+	padding: 0;
+	position: relative;
+	margin: 0 0	60px 0;
+}
+
+.img-responsive {
+	margin: auto 0;
+}
+
+h2#profesor{
+	text-align: center;
+}
+
+img.profe{
+	display: block;
+	margin: 0 auto;
+	width: 
+}
+
+.profesor{
+	margin: 0 0 30px 0
+}
+
+.profesor h3, .profesor h4{
+	margin: 20px 0 10px 0;
+	text-align: left;
+}
